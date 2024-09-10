@@ -1,0 +1,11 @@
+C:\Users\palav\source\repos\Expenses\library\bin\Debug\net8.0\expenselib.deps.json
+C:\Users\palav\source\repos\Expenses\library\bin\Debug\net8.0\expenselib.dll
+C:\Users\palav\source\repos\Expenses\library\bin\Debug\net8.0\expenselib.pdb
+C:\Users\palav\source\repos\Expenses\library\obj\Debug\net8.0\expenselib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\palav\source\repos\Expenses\library\obj\Debug\net8.0\expenselib.AssemblyInfoInputs.cache
+C:\Users\palav\source\repos\Expenses\library\obj\Debug\net8.0\expenselib.AssemblyInfo.cs
+C:\Users\palav\source\repos\Expenses\library\obj\Debug\net8.0\expenselib.csproj.CoreCompileInputs.cache
+C:\Users\palav\source\repos\Expenses\library\obj\Debug\net8.0\expenselib.dll
+C:\Users\palav\source\repos\Expenses\library\obj\Debug\net8.0\refint\expenselib.dll
+C:\Users\palav\source\repos\Expenses\library\obj\Debug\net8.0\expenselib.pdb
+C:\Users\palav\source\repos\Expenses\library\obj\Debug\net8.0\ref\expenselib.dll
